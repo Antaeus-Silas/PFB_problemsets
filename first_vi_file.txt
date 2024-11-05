@@ -1,0 +1,2 @@
+Antaeus is learning how to use a command line text editor for the first time
+This is kinda cool.

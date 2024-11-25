@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
 
-name = "Antaeus"
-print (f"My name: {name}")
+import sys
+
+
+name = sys.argv[1]
+color = sys.argv[2]
+activity = sys.argv[3]
+animal = sys.argv[4]
+print (f"My name: {name}\nMy favorite color: {color}\nMy favorite activity: {activity}\nMy favorite animal: {animal}")
+
+
 
